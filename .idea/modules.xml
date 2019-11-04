@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/ego.iml" filepath="$PROJECT_DIR$/ego.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ego-api-gateway/ego-api-gateway.iml" filepath="$PROJECT_DIR$/ego-api-gateway/ego-api-gateway.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ego-common/ego-common.iml" filepath="$PROJECT_DIR$/ego-common/ego-common.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ego-goods-web/ego-goods-web.iml" filepath="$PROJECT_DIR$/ego-goods-web/ego-goods-web.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ego-item/ego-item.iml" filepath="$PROJECT_DIR$/ego-item/ego-item.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ego-item/ego-item-interface/ego-item-interface.iml" filepath="$PROJECT_DIR$/ego-item/ego-item-interface/ego-item-interface.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ego-item/ego-item-service/ego-item-service.iml" filepath="$PROJECT_DIR$/ego-item/ego-item-service/ego-item-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ego-registry/ego-registry.iml" filepath="$PROJECT_DIR$/ego-registry/ego-registry.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ego-search/ego-search.iml" filepath="$PROJECT_DIR$/ego-search/ego-search.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ego-upload/ego-upload.iml" filepath="$PROJECT_DIR$/ego-upload/ego-upload.iml" />
+    </modules>
+  </component>
+</project>
